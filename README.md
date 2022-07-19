@@ -1,3 +1,10 @@
+# OHO Blockchain
+
+## Welcome to the OHO - The Humanized Crypto for Everyone!
+
+OHO Coin is a carefree yet powerful cryptocurrency for everyone to enjoy. OHO Blockchain is smart, fast, powerful, and fully equipped with a variety of user-friendly tools. OHO blockchain is EVM compatible, and built on Go Ethereum.
+
+
 ## Go Ethereum
 
 Official Golang implementation of the Ethereum protocol.
